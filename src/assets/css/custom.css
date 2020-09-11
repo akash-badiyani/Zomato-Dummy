@@ -1,0 +1,10 @@
+nav {
+	background-color: #cb202d;
+	margin-bottom: 20px;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+.searchBar {
+	margin-bottom: 40px;
+}
